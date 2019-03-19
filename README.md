@@ -1,0 +1,2 @@
+# Diff
+The program is about to find Difference between two given text file, according to task, in formation  program find deference not word by word but, it finds deference as a starting block and ending  block, in this case program will check the given file has a same line or not. And it will open new file  for save that deference, and in this task program also make changes in file, it changes all deference  in first file according to second file and make new file.  
